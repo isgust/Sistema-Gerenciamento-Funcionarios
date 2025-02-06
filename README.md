@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu projeto "Sistema de Gerenciamento de Funcionários":
-
----
-
 # Sistema de Gerenciamento de Funcionários
 
 Este projeto é um sistema simples desenvolvido em Java que utiliza conceitos de Programação Orientada a Objetos (POO), como Herança, Polimorfismo, Abstração e Interfaces, para gerenciar diferentes tipos de funcionários e calcular seus bônus.
