@@ -1,4 +1,10 @@
-package PACKAGE_NAME;
+public class Gerente extends Funcionario {
+    public Gerente(String nome, double salario) {
+        super(nome, salario);
+    }
 
-public class Gerente {
+    @Override
+    public double calcularBonus() {
+        return getSalario() * 0.2; // 20% de bônus
+    }
 }
